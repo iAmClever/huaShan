@@ -2,7 +2,7 @@ hey
 mo
 heymodify
 0000
-modif=y=
+mod=if=y=
 我会独孤九zhang！
 嘻嘻嘻
-modif=y=
+mod=if=y=
